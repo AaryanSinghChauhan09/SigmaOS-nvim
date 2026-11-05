@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-nvim"
+tier = 4
+description = "Neovim modern IDE configuration profile, Lua LSP bindings, and treesitter integration"
+contracts = ['nvim-profile', 'lsp-config', 'treesitter-presets']
+upstream_inspirations = ['https://github.com/omacom/aether.nvim']
